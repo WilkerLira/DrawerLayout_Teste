@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="drawer_aberto">Drawer Aberto</string>
+    <string name="drawer_fechado">Drawer fechado</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cadastrar_usuario">Cadastrar</string>
+    <string name="acessar_usuario">Acessar</string>
+    <string name="nome_usuario">Nome usuário completo</string>
+    <string name="senha_usuario">Senha</string>
+    <string name="confirmar_senha">Confirmar senha</string>
+</resources>
