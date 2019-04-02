@@ -1,4 +1,6 @@
 # DrawerLayout_Teste
 Estudando e aprendendo DrawerLayout
 
-Exercicio na aula Android, sobre DrawerLayout no IFSP-São Carlos
+Exercicio na aula Android, sobre DrawerLayout.
+
+Curso Pós Graduação em Dispositivos Móveis, IFSP-São Carlos
